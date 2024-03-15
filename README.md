@@ -11,4 +11,7 @@ bun a
 
 # start
 bun start
+
+# test
+bun test
 ```
