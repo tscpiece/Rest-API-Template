@@ -5,7 +5,6 @@
     "elysia": "^0.8.17"
   },
   "scripts": {
-    "start": "bun src/index.ts",
-    "test": "bun tests/test.ts"
+    "start": "bun src/index.ts"
   }
 }
