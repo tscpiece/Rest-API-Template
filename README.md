@@ -10,7 +10,7 @@ curl -fsSL https://bun.sh/install | bash
 # follow the instructions in the output
 
 # install packages
-bun a
+bun i
 
 # start
 bun start
