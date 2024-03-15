@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/bun": "^1.0.8",
+    "@types/node": "^20.11.28",
+    "elysia": "^0.8.17"
+  },
+  "scripts": {
+    "start": "bun src/index.ts",
+    "test": "bun tests/test.ts"
+  }
+}
